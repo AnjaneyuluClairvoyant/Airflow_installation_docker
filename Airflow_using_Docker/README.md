@@ -9,10 +9,13 @@
 
 ### About Airflow:
 
-Airflow is a popular tool that simplifies the complex workflow. It allows you to programmatically define, schedule, and monitor your workflows, all in one place. While Airflow is a powerful option, installation can sometimes feel overwhelming. This guide will break down the setup process into two easy-to-follow methods, getting you up and running with Airflow in no time.
+Apache Airflow is an open-source platform to Author, Schedule and Monitor workflows. It was created at Airbnb in 2015 (as a better way to quickly author, iterate on, and monitor the batch data pipelines handling the massive amount of data being processed at Airbnb).
+
+Currently Apache Airflow is a part of Apache Software Foundation. Airflow has gained a lot of popularity thanks to its robustness and its flexibility through the use of Python
 
 **Sample Airflow UI:**
-![image](https://github.com/raviteja10096/Airflow/assets/33113373/54f4ffde-96ce-4d5b-9bac-3f4bc969f7a7)
+![image](![image](https://github.com/user-attachments/assets/08666be7-e2af-4975-b7bb-c4b494c098c7)
+)
 
 
 This guide will focus on installing Airflow using Docker/podman. To follow along, make sure you have Docker Desktop up and running on your machine.
