@@ -82,7 +82,7 @@ Password :  airflow
 
 Login Page
 
-![image](https://github.com/raviteja10096/Airflow/assets/33113373/82c43f3f-6c82-46d2-98d4-79da627a9ede)
+![image](https://prabhatsharma.in/images/blog/airflow-login-page-small.png)
 
 Home Page
 
@@ -90,8 +90,7 @@ Home Page
 
 
  We've successfully installed the full version of Airflow in just a few minutes using Docker.
- 
- ![image](https://github.com/raviteja10096/Airflow/assets/33113373/a88309a7-c6be-49f1-8156-d7aa7277e6b0)
+
 
 ** References:**
 
