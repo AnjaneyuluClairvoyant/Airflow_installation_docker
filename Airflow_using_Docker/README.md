@@ -1,5 +1,5 @@
 # Airflow
-![image](https://github.com/raviteja10096/Airflow/assets/33113373/616ab9f8-5782-4179-b13d-e9a1a131186a)
+![image](https://th.bing.com/th/id/OIP.r-Clkoa247yMykFjEZQWQwAAAA?rs=1&pid=ImgDetMain)
 
 ## Contents
 - Introduction
