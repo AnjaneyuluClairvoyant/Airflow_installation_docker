@@ -14,8 +14,7 @@ Apache Airflow is an open-source platform to Author, Schedule and Monitor workfl
 Currently Apache Airflow is a part of Apache Software Foundation. Airflow has gained a lot of popularity thanks to its robustness and its flexibility through the use of Python
 
 **Sample Airflow UI:**
-![image](![image](https://github.com/user-attachments/assets/08666be7-e2af-4975-b7bb-c4b494c098c7)
-)
+![image](![image](https://airflow.apache.org/docs/apache-airflow/stable/_images/dags.png)
 
 
 This guide will focus on installing Airflow using Docker/podman. To follow along, make sure you have Docker Desktop up and running on your machine.
